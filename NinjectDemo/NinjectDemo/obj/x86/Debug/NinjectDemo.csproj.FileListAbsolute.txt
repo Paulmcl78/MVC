@@ -1,0 +1,8 @@
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\bin\Debug\NinjectDemo.exe
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\bin\Debug\NinjectDemo.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\bin\Debug\Ninject.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\bin\Debug\Ninject.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\bin\Debug\Ninject.xml
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\obj\x86\Debug\NinjectDemo.exe
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\NinjectDemo\NinjectDemo\obj\x86\Debug\NinjectDemo.pdb
