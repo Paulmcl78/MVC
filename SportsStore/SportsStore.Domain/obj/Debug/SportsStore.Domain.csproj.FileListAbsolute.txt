@@ -1,0 +1,11 @@
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Moq.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Ninject.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb

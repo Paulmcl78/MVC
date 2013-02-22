@@ -3,12 +3,40 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="444" fromTop="18" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="403" fromTop="13" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Product.cs" caret="1242" fromTop="25" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="151" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Product.cs" caret="1272" fromTop="22" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="1383" fromTop="23" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="623" fromTop="14" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="597" fromTop="16" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Product.cs" caret="730" fromTop="21" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="327" fromTop="14" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="574" fromTop="23" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:DefaultDiscountHelper.cs" caret="444" fromTop="18" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="769" fromTop="16" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="826" fromTop="21" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="920" fromTop="30" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="839" fromTop="20" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="1149" fromTop="33" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="173" fromTop="8" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="1603" fromTop="25" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:ShoppingCart.cs" caret="433" fromTop="14" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Product.cs" caret="937" fromTop="30" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Product.cs" caret="1242" fromTop="25" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="771" fromTop="18" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="1063" fromTop="24" />
+      <File id="0A55C177-947F-46B9-9B0D-64347F3C4071/f:Program.cs" caret="1273" fromTop="28" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +48,91 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="16" />
+      <Item value="int" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="decimal" priority="9" />
+      <Item value="set" priority="1" />
+      <Item value="interface" priority="1" />
+      <Item value="params" priority="0" />
+      <Item value="Product`0" priority="1" />
+      <Item value="products" priority="3" />
+      <Item value="class" priority="2" />
+      <Item value="IValueCalculator`0" priority="6" />
+      <Item value="return" priority="4" />
+      <Item value="Sum`1" priority="0" />
+      <Item value="p" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="ShoppingCart`0" priority="6" />
+      <Item value="calculator" priority="2" />
+      <Item value="calcParam" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="Product" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Price" priority="0" />
+      <Item value="totalValue" priority="0" />
+      <Item value="StandardKernel`0" priority="0" />
+      <Item value="ninjectKernel" priority="5" />
+      <Item value="LinqValueCalculator`0" priority="1" />
+      <Item value="ShoppingCart" priority="0" />
+      <Item value="calcImp" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="cart" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="IDiscountHelper`0" priority="3" />
+      <Item value="totalParam" priority="1" />
+      <Item value="discountHelper" priority="1" />
+      <Item value="discounter" priority="0" />
+      <Item value="DefaultDiscountHelper`0" priority="2" />
+      <Item value="DiscountRate" priority="0" />
+      <Item value="discountParam" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="get" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="ItemLimit" priority="0" />
+      <Item value="filteredProducts" priority="0" />
+      <Item value="LimitShoppingCart`0" priority="1" />
+      <Item value="Decimal`0" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="totalvalue" priority="1" />
+      <Item value="IterativeValueCalculator`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NinjectDemo.Product">
+      <Item value="Price" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NinjectDemo.IValueCalculator">
+      <Item value="ValueProduct`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.IKernel">
+      <Item value="Bind`0" priority="3" />
+      <Item value="Get`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingToSyntax`1">
+      <Item value="To`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NinjectDemo.ShoppingCart">
+      <Item value="CalculateStockValue`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NinjectDemo.IDiscountHelper">
+      <Item value="ApplyDiscount`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Ninject.Syntax.IBindingWhenInNamedWithOrOnSyntax`1">
+      <Item value="WithPropertyValue`0" priority="1" />
+      <Item value="WithConstructorArgument`0" priority="0" />
+      <Item value="WhenInjectedInto`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToArray`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

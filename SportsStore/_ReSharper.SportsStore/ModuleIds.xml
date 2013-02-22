@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="AD79E77D-641F-41BE-8E77-F5A25B41F6DD" ModuleId="SportsStore.Domain" />
+  <Module PersistentId="88302467-2D8E-487B-B96A-E9BA93D4C17C" ModuleId="UnitTests" />
+  <Module PersistentId="58EB98FD-4645-4197-9212-9F35E3C51A29" ModuleId="SportsStore.UnitTests" />
+  <Module PersistentId="42A0A733-C4A3-49A2-949F-5F19693F2DAB" ModuleId="SportsStore.WebUI" />
+</Modules>
