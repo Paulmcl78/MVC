@@ -1,0 +1,47 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C6E75372-CF61-4A25-8B6A-308585ED5469/d:Views/d:Home/f:RsvpForm.cshtml" caret="106" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C6E75372-CF61-4A25-8B6A-308585ED5469/d:Views/d:Home/f:RsvpForm.cshtml" caret="419" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="2" />
+      <Item value="return" priority="1" />
+      <Item value="View`0" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="ViewBag" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="get" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="ViewResult`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Hour" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
