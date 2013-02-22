@@ -1,0 +1,28 @@
+﻿@model Razor.Models.Product
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Name: @Model.Name</h2>
+
+@{
+    if (Model.Category == "Watersports")
+    {
+        <text>
+        <p>Description: @Model.Description <b>(Splash!)</b></p>
+        <p>Category: @Model.Category</p>
+        </text>
+    } 
+    else
+    {
+     @:Description: @Model.Description   
+    }
+    
+}
+
+View rendered at @ViewBag.ProcessingTime
+
+
+  
+

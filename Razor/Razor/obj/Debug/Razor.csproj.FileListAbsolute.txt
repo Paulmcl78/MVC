@@ -1,0 +1,7 @@
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\bin\Razor.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\bin\Razor.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\bin\EntityFramework.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\bin\EntityFramework.xml
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\obj\Debug\Razor.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\Razor\Razor\obj\Debug\Razor.pdb
