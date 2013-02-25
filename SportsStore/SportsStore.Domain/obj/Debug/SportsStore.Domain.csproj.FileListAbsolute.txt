@@ -12,3 +12,17 @@ C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Moq.dll
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Ninject.dll
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Moq.pdb
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Ninject.pdb
+D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
+D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
