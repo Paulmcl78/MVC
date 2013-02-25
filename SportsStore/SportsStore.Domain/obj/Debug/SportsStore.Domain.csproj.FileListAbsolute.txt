@@ -9,3 +9,6 @@ C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml

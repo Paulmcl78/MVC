@@ -10,6 +10,8 @@ C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.pdb
 C:\Users\PMcLaughlin\Documents\Personal\Programming\MVC4\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5e53f4f3-fd70-4f68-b3da-868ab1b2a812" name="PMcLaughlin@PMCLAUGHLIN764 2013-02-25 10:34:58" runUser="NAVIMEDIX\PMcLaughlin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f46b6137-c9ed-46c4-b39f-485446ae98dd">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="PMcLaughlin_PMCLAUGHLIN764 2013-02-25 10_34_58" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-02-25T10:34:58.7264457+00:00" queuing="2013-02-25T10:34:59.6318982+00:00" start="2013-02-25T10:35:00.5433537+00:00" finish="2013-02-25T10:35:02.1191412+00:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Can_Paginate" storage="c:\users\pmclaughlin\documents\personal\programming\mvc4\sportsstore\sportsstore.unittests\bin\debug\sportsstore.unittests.dll" id="2065cb38-f69f-dafc-19b4-5013002de7df">
+      <Execution timeOut="1800000" id="22044d96-a14d-415e-aff2-2d3b4428877f" />
+      <TestMethod codeBase="C:/Users/PMcLaughlin/Documents/Personal/Programming/MVC4/SportsStore/SportsStore.UnitTests/bin/Debug/SportsStore.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="SportsStore.UnitTests.UnitTest1, SportsStore.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Can_Paginate" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2065cb38-f69f-dafc-19b4-5013002de7df" executionId="22044d96-a14d-415e-aff2-2d3b4428877f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="22044d96-a14d-415e-aff2-2d3b4428877f" testId="2065cb38-f69f-dafc-19b4-5013002de7df" testName="Can_Paginate" computerName="PMCLAUGHLIN764" duration="00:00:00.9300167" startTime="2013-02-25T10:35:01.0285962+00:00" endTime="2013-02-25T10:35:02.0260947+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22044d96-a14d-415e-aff2-2d3b4428877f">
+    </UnitTestResult>
+  </Results>
+</TestRun>
