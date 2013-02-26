@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using SportsStore.Domain.Entities;
+using SportsStore.WebUI.Binders;
 using SportsStore.WebUI.Infrastructure;
 
 namespace SportsStore.WebUI
@@ -54,6 +56,7 @@ namespace SportsStore.WebUI
             RegisterRoutes(RouteTable.Routes);
 
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
+            ModelBinders.Binders.Add(typeof(Cart),new CartModelBinder());
         }
     }
 }
