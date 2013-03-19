@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using SportsStore.Domain.Abstract;
 using SportsStore.WebUI.Models;
+using System.Data.Entity;
 
 namespace SportsStore.WebUI.Controllers
 {
@@ -20,7 +21,7 @@ namespace SportsStore.WebUI.Controllers
 
         public ViewResult List(string category, int page =1)
         {
-
+            
             ProductsListViewModel viewModel = new ProductsListViewModel
                                                   {
                                                       Products =
