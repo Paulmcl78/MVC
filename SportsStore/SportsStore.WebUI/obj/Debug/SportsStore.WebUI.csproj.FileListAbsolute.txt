@@ -25,6 +25,6 @@ D:\Programming\MVC\SportsStore\SportsStore.WebUI\bin\Moq.pdb
 D:\Programming\MVC\SportsStore\SportsStore.WebUI\bin\Moq.xml
 D:\Programming\MVC\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
 D:\Programming\MVC\SportsStore\SportsStore.WebUI\bin\Ninject.xml
-D:\Programming\MVC\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
 D:\Programming\MVC\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 D:\Programming\MVC\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\Programming\MVC\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache

@@ -29,6 +29,6 @@ D:\Programming\MVC\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
 D:\Programming\MVC\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 D:\Programming\MVC\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.pdb
 D:\Programming\MVC\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
-D:\Programming\MVC\SportsStore\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
 D:\Programming\MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 D:\Programming\MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+D:\Programming\MVC\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache

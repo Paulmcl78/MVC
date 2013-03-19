@@ -23,6 +23,5 @@ D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Moq.pdb
 D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Moq.xml
 D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Ninject.pdb
 D:\Programming\MVC\SportsStore\SportsStore.Domain\bin\Debug\Ninject.xml
-D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\ResolveAssemblyReference.cache
 D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 D:\Programming\MVC\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
