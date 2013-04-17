@@ -50,10 +50,12 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminControllerFixture.cs" />
     <Compile Include="PagingInfoFixture.cs" />
     <Compile Include="ProductsListViewModelFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTest1.cs" />
+    <Compile Include="AuthenticationControllerFixture.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SportsStore.Domain\SportsStore.Domain.csproj">

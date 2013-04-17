@@ -30,5 +30,12 @@ namespace SportsStore.Domain.Concrete
 
             context.SaveChanges();
         }
+
+        public void DeleteProduct(Product product)
+        {
+            if (product == null) return;
+            context.Products.Remove(product);
+            context.SaveChanges();
+        }
     }
 }
