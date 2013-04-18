@@ -1,0 +1,8 @@
+D:\Programming\MVC\Authentications\Authentication.Domain\bin\Debug\Authentication.Domain.dll.config
+D:\Programming\MVC\Authentications\Authentication.Domain\bin\Debug\Authentication.Domain.dll
+D:\Programming\MVC\Authentications\Authentication.Domain\bin\Debug\Authentication.Domain.pdb
+D:\Programming\MVC\Authentications\Authentication.Domain\bin\Debug\EntityFramework.dll
+D:\Programming\MVC\Authentications\Authentication.Domain\bin\Debug\EntityFramework.xml
+D:\Programming\MVC\Authentications\Authentication.Domain\obj\Debug\Authentication.Domain.dll
+D:\Programming\MVC\Authentications\Authentication.Domain\obj\Debug\Authentication.Domain.pdb
+D:\Programming\MVC\Authentications\Authentication.Domain\obj\Debug\Authentication.Domain.csprojResolveAssemblyReference.cache

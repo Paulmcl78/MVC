@@ -1,0 +1,16 @@
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentications.Tests.dll.config
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentications.Tests.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentications.Tests.pdb
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentications.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Castle.Windsor.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\EntityFramework.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Castle.Core.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentications.pdb
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Castle.Windsor.xml
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\EntityFramework.xml
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Castle.Core.xml
+D:\Programming\MVC\Authentications\Authentications.Tests\obj\Debug\Authentications.Tests.csprojResolveAssemblyReference.cache
+D:\Programming\MVC\Authentications\Authentications.Tests\obj\Debug\Authentications.Tests.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\obj\Debug\Authentications.Tests.pdb
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentication.Domain.dll
+D:\Programming\MVC\Authentications\Authentications.Tests\bin\Debug\Authentication.Domain.pdb

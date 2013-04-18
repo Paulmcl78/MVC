@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentications", "Authentications\Authentications.csproj", "{7FC26855-0BE1-430C-80F7-A1294EAF01F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentications.Tests", "Authentications.Tests\Authentications.Tests.csproj", "{0867A9D0-EF6A-4749-8DF0-C2A5F938DB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication.Domain", "Authentication.Domain\Authentication.Domain.csproj", "{D6A57F56-CCE0-4D26-86C7-E1FDE3CB8AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC26855-0BE1-430C-80F7-A1294EAF01F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC26855-0BE1-430C-80F7-A1294EAF01F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC26855-0BE1-430C-80F7-A1294EAF01F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC26855-0BE1-430C-80F7-A1294EAF01F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0867A9D0-EF6A-4749-8DF0-C2A5F938DB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0867A9D0-EF6A-4749-8DF0-C2A5F938DB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0867A9D0-EF6A-4749-8DF0-C2A5F938DB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0867A9D0-EF6A-4749-8DF0-C2A5F938DB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A57F56-CCE0-4D26-86C7-E1FDE3CB8AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A57F56-CCE0-4D26-86C7-E1FDE3CB8AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A57F56-CCE0-4D26-86C7-E1FDE3CB8AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A57F56-CCE0-4D26-86C7-E1FDE3CB8AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

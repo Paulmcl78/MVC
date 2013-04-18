@@ -1,0 +1,13 @@
+﻿@model Authentication.Domain.User
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+    @using (Html.BeginForm())
+    {
+        @Html.EditorForModel()
+    }
+</p>
