@@ -1,0 +1,17 @@
+﻿@model LoginPage.Domain.User
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Login</h2>
+
+@Html.Label("Username : ")
+@Html.TextBoxFor(model => model.UserName)
+
+<div>
+    @Html.Label("Password : ")
+    @Html.TextBoxFor(model => model.Password)
+</div>
+<!--<input type="button" value="cancel" onclick="@Html.Action("Index")" />-->
+<input type="submit" value="Login" />

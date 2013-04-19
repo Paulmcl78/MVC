@@ -1,0 +1,5 @@
+C:\MyProjects\MVC\LoginPage\Test\bin\Debug\LoginPage.Test.dll
+C:\MyProjects\MVC\LoginPage\Test\bin\Debug\LoginPage.Test.pdb
+C:\MyProjects\MVC\LoginPage\Test\obj\Debug\LoginPage.Test.csprojResolveAssemblyReference.cache
+C:\MyProjects\MVC\LoginPage\Test\obj\Debug\LoginPage.Test.dll
+C:\MyProjects\MVC\LoginPage\Test\obj\Debug\LoginPage.Test.pdb

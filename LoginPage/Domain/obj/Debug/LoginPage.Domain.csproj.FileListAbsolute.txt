@@ -1,0 +1,7 @@
+C:\MyProjects\MVC\LoginPage\Domain\bin\Debug\LoginPage.Domain.dll.config
+C:\MyProjects\MVC\LoginPage\Domain\bin\Debug\LoginPage.Domain.dll
+C:\MyProjects\MVC\LoginPage\Domain\bin\Debug\LoginPage.Domain.pdb
+C:\MyProjects\MVC\LoginPage\Domain\bin\Debug\EntityFramework.dll
+C:\MyProjects\MVC\LoginPage\Domain\bin\Debug\EntityFramework.xml
+C:\MyProjects\MVC\LoginPage\Domain\obj\Debug\LoginPage.Domain.dll
+C:\MyProjects\MVC\LoginPage\Domain\obj\Debug\LoginPage.Domain.pdb
