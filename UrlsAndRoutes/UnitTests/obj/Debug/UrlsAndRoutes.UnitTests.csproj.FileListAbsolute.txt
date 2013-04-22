@@ -1,0 +1,12 @@
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\UrlsAndRoutes.UnitTests.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\UrlsAndRoutes.UnitTests.pdb
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\Moq.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\UrlsAndRoutes.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\EntityFramework.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\UrlsAndRoutes.pdb
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\Moq.pdb
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\Moq.xml
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\bin\Debug\EntityFramework.xml
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\obj\Debug\UrlsAndRoutes.UnitTests.csprojResolveAssemblyReference.cache
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\obj\Debug\UrlsAndRoutes.UnitTests.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UnitTests\obj\Debug\UrlsAndRoutes.UnitTests.pdb
