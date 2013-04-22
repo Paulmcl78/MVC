@@ -18,3 +18,6 @@ C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\bin\System.Web.WebPages.Deployment
 C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\bin\System.Web.WebPages.Razor.xml
 C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\UrlsAndRoutes.dll
 C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\UrlsAndRoutes.pdb
+C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\bin\AdditionalControllers.dll
+C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\bin\AdditionalControllers.pdb
+C:\MyProjects\MVC\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\UrlsAndRoutes.csprojResolveAssemblyReference.cache

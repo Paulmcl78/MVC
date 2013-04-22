@@ -5,26 +5,65 @@ using System.Web;
 using System.Web.Routing;
 using UrlsAndRoutes;
 using System.Reflection;
+using System.Web.Mvc;
 
 namespace UnitTests
 {
     [TestClass]
     public class Routes
     {
+
+        #region Tests
         [TestMethod]
         public void TestIncomingRoutes()
         {
-            //Check for the url that we hope to receive
-            TestRouteMatch("~/Admin/Index", "Admin", "Index");
+            
+            TestRouteMatch("~/", "Home", "Index");
 
-            //Check that the values are being obtained from the segments
-            TestRouteMatch("~/One/Two", "One", "Two");
+            TestRouteMatch("~/Customer", "Customer", "Index");
 
-            // ensure that too many or too few segements fails to match
-            TestRoutingFail("~/Admin/Index/Segment");
-            TestRoutingFail("~/Admin");
+            TestRouteMatch("~/Customer/List", "Customer", "List");
 
+            TestRouteMatch("~/Customer/List/All", "Customer", "List", new { id = "All" });
+
+            TestRoutingFail("~/Customer/List/All/Delete");
+
+            TestRoutingFail("~/Customer/List/All/Delete/Perm");
+
+            //TestRoutingFail("~/Customer/List/All/Delete");
+
+            //TestRouteMatch("~/Shop/Index", "Home", "Index");
+
+            ////Check for the url that we hope to receive
+            //TestRouteMatch("~/Admin/Index", "Admin", "Index");
+
+            ////Check that the values are being obtained from the segments
+            //TestRouteMatch("~/One/Two", "One", "Two");
+
+            //TestRouteMatch("~/Admin", "Admin", "Index");
+            
+            //TestRouteMatch("~/", "Home", "Index");
+
+            //// ensure that too many or too few segements fails to match
+            //TestRoutingFail("~/Admin/Index/Segment");
         }
+        [TestMethod]
+        public void TestOutgoingRoutes()
+        {
+            //Arrange
+            RouteCollection routes = new RouteCollection();
+            MvcApplication.RegisterRoutes(routes);
+
+            RequestContext context = new RequestContext(CreateHttpContext(), new RouteData());
+
+            //Act - generate the url
+            string result = UrlHelper.GenerateUrl(null, "Index", "Home", null, routes, context, true);
+
+            //Assert
+            Assert.AreEqual("/", result);
+        }
+
+        #endregion
 
         #region provate methods
         private void TestRouteMatch(string url, string controller, string action, object routeProperties = null, string httpMethod = "Get")

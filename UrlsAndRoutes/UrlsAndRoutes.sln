@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsAndRoutes", "UrlsAndRou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlsAndRoutes.UnitTests", "UnitTests\UrlsAndRoutes.UnitTests.csproj", "{428BCF6A-85CD-4C39-8FC5-1B5A714CCE5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalControllers", "AdditionalControllers\AdditionalControllers.csproj", "{CC3FCEC4-0B4C-4842-B3C5-E821A48CC568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{428BCF6A-85CD-4C39-8FC5-1B5A714CCE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{428BCF6A-85CD-4C39-8FC5-1B5A714CCE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{428BCF6A-85CD-4C39-8FC5-1B5A714CCE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3FCEC4-0B4C-4842-B3C5-E821A48CC568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3FCEC4-0B4C-4842-B3C5-E821A48CC568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3FCEC4-0B4C-4842-B3C5-E821A48CC568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3FCEC4-0B4C-4842-B3C5-E821A48CC568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,5 +19,11 @@ namespace UrlsAndRoutes.Controllers
         {
             return View();
         }
+
+        public ViewResult CustomVariable(string id = "DefaultId")
+        {
+            ViewBag.CustomVariable = id;
+            return View();
+        }
     }
 }
