@@ -1,0 +1,10 @@
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\WorkingWithAreas.Tests.dll.config
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\WorkingWithAreas.Tests.dll
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\WorkingWithAreas.Tests.pdb
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\WorkingWithAreas.dll
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\EntityFramework.dll
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\WorkingWithAreas.pdb
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\bin\Debug\EntityFramework.xml
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\obj\Debug\WorkingWithAreas.Tests.csprojResolveAssemblyReference.cache
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\obj\Debug\WorkingWithAreas.Tests.dll
+C:\MyProjects\MVC\WorkingWithAreas\WorkingWithAreas.Tests\obj\Debug\WorkingWithAreas.Tests.pdb
