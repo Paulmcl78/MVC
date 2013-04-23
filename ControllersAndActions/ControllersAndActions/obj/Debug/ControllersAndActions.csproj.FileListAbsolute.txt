@@ -18,3 +18,4 @@ C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions\bin\System.Web.Web
 C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions\bin\System.Web.WebPages.Razor.xml
 C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions\obj\Debug\ControllersAndActions.dll
 C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions\obj\Debug\ControllersAndActions.pdb
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions\obj\Debug\ControllersAndActions.csprojResolveAssemblyReference.cache
