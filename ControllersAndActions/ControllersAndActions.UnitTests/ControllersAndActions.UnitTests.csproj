@@ -54,8 +54,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="ControllerActionsFixture.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ContentFixtures.cs" />
+    <Compile Include="HttpStatusCodeFixures.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ControllersAndActions\ControllersAndActions.csproj">

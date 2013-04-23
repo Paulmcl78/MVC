@@ -48,5 +48,36 @@ namespace ControllersAndActions.UnitTests
             Assert.AreEqual("Hello", result.ViewBag.Message);
 
         }
+
+        [TestMethod]
+        public void LiteralRedirectTest()
+        {
+            //Arrange - create the controller
+            RedirectController controller = new RedirectController();
+
+            //Act - call the action method
+            RedirectResult result = controller.Redirect();
+
+            //Assert - check the result
+            Assert.IsFalse(result.Permanent);
+            Assert.AreEqual("/Example/Index", result.Url);
+
+        }
+
+        [TestMethod]
+        public void RedirectToRouteTest()
+        {
+            //Arrange - create the controller
+            RedirectController controller = new RedirectController();
+
+            //Act -call the action method
+            RedirectToRouteResult result = controller.RedirectToRoute();
+
+            //Assert - check the result
+            Assert.IsFalse(result.Permanent);
+            Assert.AreEqual("Example", result.RouteValues["controller"]);
+            Assert.AreEqual("Index", result.RouteValues["action"]);
+            Assert.AreEqual("MyId", result.RouteValues["ID"]);
+        }
     }
 }
