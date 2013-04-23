@@ -1,0 +1,9 @@
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\ControllersAndActions.UnitTests.dll
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\ControllersAndActions.UnitTests.pdb
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\ControllersAndActions.dll
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\EntityFramework.dll
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\ControllersAndActions.pdb
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\bin\Debug\EntityFramework.xml
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\obj\Debug\ControllersAndActions.UnitTests.csprojResolveAssemblyReference.cache
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\obj\Debug\ControllersAndActions.UnitTests.dll
+C:\MyProjects\MVC\ControllersAndActions\ControllersAndActions.UnitTests\obj\Debug\ControllersAndActions.UnitTests.pdb
