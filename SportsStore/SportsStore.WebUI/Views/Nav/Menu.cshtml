@@ -4,9 +4,18 @@
     Layout = null;
 }
 
-@Html.ActionLink("Home", "List","Product")
 
-@foreach (var link in Model)
-{
- @Html.RouteLink(link, new { controller = "Product", action = "List", category = link, page = 1 }, new { @class = link == ViewBag.SelectedCategory ? "selected" : null })   
-}
+
+
+
+<ul class="nav nav-list">
+    <li class="nav-header">Menu</li>
+    <li class="active">@Html.ActionLink("Home", "List","Product")</li>
+    @foreach (var link in Model)
+    {
+     <li>
+    @Html.RouteLink(link, new { controller = "Product", action = "List", category = link, page = 1 }, new { @class = link == ViewBag.SelectedCategory ? "selected" : null })  
+     </li>
+     }
+   
+</ul>

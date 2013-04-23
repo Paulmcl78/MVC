@@ -5,7 +5,7 @@
 }
 
 <h2>Your Cart</h2>
-<table width="90%" align="center">
+<table width="90%" align="center" class="table table-hover">
     <thead>
         <tr>
             <th align="center">Quantity</th>
@@ -32,13 +32,14 @@
                 </td>
             </tr>
         }
-    </tbody>
-    <tfoot>
-        <tr>
+    <!--</tbody>
+    <tfoot>-->
+        <tr class="success">
             <td colspan="3" align="right">Total:</td>
             <td align="right">@Model.Cart.ComputeTotalValue().ToString("c")</td>
         </tr>
-    </tfoot>
+    <!--</tfoot>-->
+        </tbody>
 </table>
 <p align="center" class="actionButtons">
     <a href="@Model.ReturnUrl">Continue Shopping</a>

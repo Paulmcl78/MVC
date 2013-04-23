@@ -4,11 +4,17 @@
     ViewBag.Title = "Products";
 }
 
-@foreach (var p in Model.Products)
+<table class="table">
+    @foreach (var p in Model.Products)
     {
         Html.RenderPartial("ProductSummary", p);
     }
-
-    <div class="pager">
+    
+</table>
+<div class="pull-right">
+    <div class="pagination">
         @Html.PageLinks(Model.PagingInfo, x=> Url.Action("List", new {page=x, category = Model.CurrentCategory}))
     </div>
+</div>
+
+    
