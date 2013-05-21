@@ -6,6 +6,13 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
+using Castle.MicroKernel;
+using Castle.MicroKernel.Registration;
+using Castle.MicroKernel.Resolvers.SpecializedResolvers;
+using Castle.Windsor;
+using LoginPage.Domain;
+using LoginPage.Infrastructure;
+using LoginPage.Infrastructure.Installers;
 
 namespace LoginPage
 {
@@ -14,6 +21,17 @@ namespace LoginPage
 
     public class MvcApplication : System.Web.HttpApplication
     {
+
+        private readonly IWindsorContainer _container;
+
+        public MvcApplication()
+        {
+            _container = new WindsorContainer();
+
+            _container.Kernel.Resolver.AddSubResolver(new CollectionResolver(_container.Kernel, true));
+            _container.Install(new ControllerInstaller(), new LoginInstaller());
+        }
+
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
@@ -26,17 +44,17 @@ namespace LoginPage
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
-                new { controller = "Home", action = "Index", id = UrlParameter.Optional } // Parameter defaults
+                new { controller = "Authentication", action = "Login", id = UrlParameter.Optional } // Parameter defaults
             );
 
         }
 
         protected void Application_Start()
         {
+            
             AreaRegistration.RegisterAllAreas();
 
-            // Use LocalDB for Entity Framework by default
-            Database.DefaultConnectionFactory = new SqlConnectionFactory(@"Data Source=(localdb)\v11.0; Integrated Security=True; MultipleActiveResultSets=True");
+            ControllerBuilder.Current.SetControllerFactory(new WindsorControllerFactory(_container.Kernel));
 
             RegisterGlobalFilters(GlobalFilters.Filters);
             RegisterRoutes(RouteTable.Routes);

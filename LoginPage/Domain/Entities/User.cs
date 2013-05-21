@@ -13,6 +13,7 @@ namespace LoginPage.Domain
         public int Id { get; set; }
 
         [Required(ErrorMessage = "Please enter a username")]
+        [DataType(DataType.Text)]
         public string UserName { get; set; }
 
         [Required(ErrorMessage = "Please enter a password")]
