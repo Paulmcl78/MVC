@@ -20,10 +20,18 @@ namespace LoginPage.Controllers
             _repo = coreRepo;
         }
 
-
+        public ActionResult Logout()
+        {
+            Session.RemoveAll();
+            return View("Login");
+        }
 
         public ActionResult Login()
         {
+            if (Session["AuthenticatedUser"] != null && (bool)Session["AuthenticatedUser"])
+            {
+                return RedirectToAction("Index", "Home");
+            }
             return View();
         }
 
@@ -43,6 +51,8 @@ namespace LoginPage.Controllers
             }
 
             Session["AuthenticatedUser"] = true;
+            Session["User"] = user.UserName;
+            Session["LoginTime"] = DateTime.Now;
 
             return RedirectToAction("Index", "Home");
 

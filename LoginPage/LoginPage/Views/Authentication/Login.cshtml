@@ -1,18 +1,15 @@
 ﻿@model LoginPage.Domain.User
 
 @{
-    ViewBag.Title = "Login";
+    ViewBag.Title = "Please sign in";
     Layout = "~/Views/Shared/_Login.cshtml";
 }
 
 
- 
 @using (Html.BeginForm("Login", "Authentication", FormMethod.Post, new { @class = "form-signin" }))
         {
-         <div class="container">
-            
+            <div class="container">
                 <h2 class="form-signin-heading">Please sign in</h2>
-
                 <div>
                     @Html.Label("Username : ")
                     @Html.EditorFor(model => model.UserName)
@@ -23,22 +20,16 @@
                     @Html.EditorFor(model => model.Password)
                     @Html.ValidationMessageFor(m => m.Password)
                 </div>
-
-             <input type="submit" value="Sign in" class="btn btn-large btn-primary" />
-             
-             
-
-           
-     
-         </div>
+                    <input type="submit" value="Sign in" class="btn btn-large btn-primary" />
+                </div>
         }
 
 @if (!ViewData.ModelState.IsValid)
-{
-    <div class="span4 offset7 alert alert-block alert-error">
-        <button type="button" class="close" data-dismiss="alert">&times;</button>
-        @Html.ValidationSummary(true, "Login was unsuccessful. Please correct the errors and try again.")@*new{@class="span4 offset7 alert alert-block alert-error"})*@
+    {
+        <div class="span5 offset7 alert alert-block alert-error">
+            <button type="button" class="close" data-dismiss="alert">&times;</button>
+            @Html.ValidationSummary(true, "Login was unsuccessful. Please correct the errors and try again.")
+        </div>
+    }
 
-    </div>
-}
 
