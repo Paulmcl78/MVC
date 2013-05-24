@@ -1,10 +1,11 @@
-﻿@model LoginPage.Models.IndexViewModel
+﻿
+@model LoginPage.Models.IndexViewModel
 
 @{
     ViewBag.Title = "Index";
 }
 
- <style type="text/css">
+@* <style type="text/css">
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -12,24 +13,5 @@
       .sidebar-nav {
         padding: 9px 0;
       }
-</style>
-
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="span2">
-            <div class="well sidebar-nav">
-                <ul class="nav nav-list">
-                    <li class="muted">@Html.Label("Logged in as : ")</li>
-                    <li>@Html.Raw(Model.UserName)</li>
-                    <br/>
-                    <li class="muted">@Html.Label("Logged in for : ")</li>
-                    <li>@Html.Raw(Model.LoginTime.ToString()) minutes</li>
-                </ul>
-            </div>
-        </div>
-        <div class="span10">
-            <h2>Home</h2>
-        </div>
-    </div>
-
-</div>
+</style>*@
+<h2>Home</h2> 

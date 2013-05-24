@@ -17,9 +17,6 @@ namespace LoginPage.Controllers
             
             IndexViewModel Model = new IndexViewModel();
 
-            Model.UserName = (string)Session["User"];
-            Model.LoginTime = (DateTime.Now - (DateTime) Session["LoginTime"]).Minutes;
-
             return View(Model);
 
             
